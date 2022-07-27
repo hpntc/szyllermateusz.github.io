@@ -2,7 +2,7 @@
 
 ## Doświadczenie
 
-**'Jak nauczyć się programowania'**\
+**Jak nauczyć się programowania**\
 od 2019
 
 **Astek Polska**\
@@ -14,10 +14,10 @@ od 2019
 **Antidote i Yawp**\
 2015 - 2017
 
-**Fujitsu'**\
+**Fujitsu**\
 2015 - 2016
 
-**TomTom'**\
+**TomTom**\
 2012 - 2014
 
 **'Menlo Innovations'**\
