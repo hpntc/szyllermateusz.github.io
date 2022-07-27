@@ -2,7 +2,7 @@
 
 ## Doświadczenie
 
-**'*Jak nauczyć się programowania*'**\
+**'Jak nauczyć się programowania'**\
 od 2019
 
 **Astek Polska**\
